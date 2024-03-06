@@ -1,0 +1,201 @@
+Roll Num,House Name,Year,Hobby
+1,Gryffindor,1,Herbology
+2,Gryffindor,6,Duelling
+3,Hufflepuff,5,Magical creatures
+4,Slytherin,7,Potion brewing
+5,Slytherin,1,Potion brewing
+6,Slytherin,1,Wizard chess
+7,Gryffindor,7,Potion brewing
+8,Gryffindor,7,Wizard chess
+9,Ravenclaw,2,Wizard chess
+10,Gryffindor,2,Potion brewing
+11,Gryffindor,4,Herbology
+12,Gryffindor,4,Quidditch
+13,Slytherin,4,Potion brewing
+14,Slytherin,2,Magical creatures
+15,Gryffindor,7,Spell invention
+16,Slytherin,4,Wizard chess
+17,Ravenclaw,1,Herbology
+18,Slytherin,2,Wizard chess
+19,Ravenclaw,4,Magical creatures
+20,Hufflepuff,1,Wizard chess
+21,Gryffindor,4,Magical creatures
+22,Slytherin,3,Wizard chess
+23,Ravenclaw,7,Potion brewing
+24,Hufflepuff,7,Spell invention
+25,Hufflepuff,4,Potion brewing
+26,Slytherin,3,Wizard chess
+27,Slytherin,4,Magical creatures
+28,Hufflepuff,6,Quidditch
+29,Gryffindor,6,Herbology
+30,Gryffindor,7,Wizard chess
+31,Ravenclaw,5,Quidditch
+32,Gryffindor,6,Wizard chess
+33,Hufflepuff,6,Herbology
+34,Hufflepuff,4,Potion brewing
+35,Hufflepuff,2,Potion brewing
+36,Gryffindor,2,Wizard chess
+37,Ravenclaw,3,Herbology
+38,Gryffindor,2,Spell invention
+39,Ravenclaw,1,Spell invention
+40,Gryffindor,5,Wizard chess
+41,Hufflepuff,6,Wizard chess
+42,Hufflepuff,5,Wizard chess
+43,Slytherin,1,Potion brewing
+44,Gryffindor,6,Potion brewing
+45,Gryffindor,3,Quidditch
+46,Slytherin,1,Magical creatures
+47,Hufflepuff,1,Potion brewing
+48,Gryffindor,5,Herbology
+49,Slytherin,4,Spell invention
+50,Gryffindor,5,Spell invention
+51,Ravenclaw,7,Wizard chess
+52,Hufflepuff,5,Quidditch
+53,Ravenclaw,2,Wizard chess
+54,Hufflepuff,1,Spell invention
+55,Slytherin,5,Spell invention
+56,Hufflepuff,1,Magical creatures
+57,Hufflepuff,7,Duelling
+58,Slytherin,2,Herbology
+59,Hufflepuff,1,Magical creatures
+60,Gryffindor,5,Wizard chess
+61,Slytherin,1,Duelling
+62,Slytherin,6,Spell invention
+63,Slytherin,7,Quidditch
+64,Ravenclaw,2,Quidditch
+65,Ravenclaw,4,Spell invention
+66,Hufflepuff,1,Potion brewing
+67,Slytherin,5,Duelling
+68,Hufflepuff,2,Spell invention
+69,Gryffindor,5,Quidditch
+70,Slytherin,5,Quidditch
+71,Gryffindor,1,Duelling
+72,Hufflepuff,5,Herbology
+73,Ravenclaw,1,Spell invention
+74,Hufflepuff,4,Magical creatures
+75,Gryffindor,6,Wizard chess
+76,Slytherin,5,Spell invention
+77,Hufflepuff,5,Herbology
+78,Slytherin,5,Duelling
+79,Ravenclaw,3,Duelling
+80,Ravenclaw,3,Quidditch
+81,Ravenclaw,2,Herbology
+82,Slytherin,6,Duelling
+83,Hufflepuff,6,Potion brewing
+84,Slytherin,3,Spell invention
+85,Slytherin,2,Quidditch
+86,Hufflepuff,3,Magical creatures
+87,Ravenclaw,4,Herbology
+88,Ravenclaw,2,Quidditch
+89,Hufflepuff,6,Duelling
+90,Slytherin,6,Wizard chess
+91,Slytherin,3,Duelling
+92,Ravenclaw,4,Magical creatures
+93,Gryffindor,3,Magical creatures
+94,Gryffindor,7,Magical creatures
+95,Gryffindor,1,Magical creatures
+96,Slytherin,1,Magical creatures
+97,Slytherin,4,Potion brewing
+98,Ravenclaw,5,Spell invention
+99,Gryffindor,5,Herbology
+100,Ravenclaw,1,Quidditch
+101,Ravenclaw,1,Magical creatures
+102,Ravenclaw,5,Spell invention
+103,Hufflepuff,2,Duelling
+104,Gryffindor,5,Spell invention
+105,Gryffindor,3,Magical creatures
+106,Hufflepuff,2,Wizard chess
+107,Hufflepuff,3,Quidditch
+108,Gryffindor,1,Magical creatures
+109,Hufflepuff,2,Spell invention
+110,Ravenclaw,3,Duelling
+111,Slytherin,3,Spell invention
+112,Ravenclaw,2,Magical creatures
+113,Gryffindor,4,Herbology
+114,Hufflepuff,7,Spell invention
+115,Slytherin,5,Herbology
+116,Gryffindor,6,Magical creatures
+117,Hufflepuff,3,Spell invention
+118,Slytherin,5,Duelling
+119,Slytherin,7,Potion brewing
+120,Hufflepuff,6,Potion brewing
+121,Slytherin,5,Herbology
+122,Gryffindor,1,Magical creatures
+123,Hufflepuff,6,Herbology
+124,Ravenclaw,7,Magical creatures
+125,Gryffindor,5,Magical creatures
+126,Gryffindor,3,Potion brewing
+127,Hufflepuff,6,Duelling
+128,Hufflepuff,1,Duelling
+129,Slytherin,2,Spell invention
+130,Gryffindor,3,Herbology
+131,Slytherin,1,Duelling
+132,Gryffindor,1,Wizard chess
+133,Gryffindor,6,Quidditch
+134,Ravenclaw,5,Spell invention
+135,Gryffindor,2,Spell invention
+136,Slytherin,3,Potion brewing
+137,Slytherin,3,Herbology
+138,Ravenclaw,5,Wizard chess
+139,Slytherin,2,Duelling
+140,Hufflepuff,6,Duelling
+141,Ravenclaw,3,Magical creatures
+142,Slytherin,2,Spell invention
+143,Slytherin,6,Herbology
+144,Hufflepuff,6,Herbology
+145,Ravenclaw,7,Herbology
+146,Hufflepuff,3,Magical creatures
+147,Ravenclaw,5,Potion brewing
+148,Ravenclaw,4,Duelling
+149,Gryffindor,3,Herbology
+150,Slytherin,7,Wizard chess
+151,Slytherin,1,Wizard chess
+152,Gryffindor,1,Magical creatures
+153,Hufflepuff,6,Potion brewing
+154,Gryffindor,4,Magical creatures
+155,Slytherin,7,Quidditch
+156,Slytherin,3,Spell invention
+157,Gryffindor,1,Duelling
+158,Gryffindor,1,Magical creatures
+159,Gryffindor,3,Magical creatures
+160,Slytherin,7,Duelling
+161,Gryffindor,2,Spell invention
+162,Gryffindor,6,Quidditch
+163,Hufflepuff,3,Wizard chess
+164,Gryffindor,2,Wizard chess
+165,Slytherin,6,Potion brewing
+166,Hufflepuff,4,Magical creatures
+167,Ravenclaw,5,Spell invention
+168,Slytherin,6,Potion brewing
+169,Slytherin,4,Wizard chess
+170,Ravenclaw,5,Potion brewing
+171,Slytherin,1,Potion brewing
+172,Ravenclaw,1,Quidditch
+173,Ravenclaw,1,Quidditch
+174,Slytherin,6,Potion brewing
+175,Gryffindor,2,Herbology
+176,Gryffindor,5,Duelling
+177,Ravenclaw,1,Wizard chess
+178,Hufflepuff,7,Wizard chess
+179,Ravenclaw,3,Quidditch
+180,Ravenclaw,5,Herbology
+181,Ravenclaw,5,Herbology
+182,Gryffindor,2,Magical creatures
+183,Gryffindor,4,Duelling
+184,Gryffindor,2,Potion brewing
+185,Ravenclaw,1,Magical creatures
+186,Hufflepuff,3,Magical creatures
+187,Gryffindor,3,Herbology
+188,Slytherin,7,Herbology
+189,Slytherin,7,Herbology
+190,Slytherin,1,Potion brewing
+191,Ravenclaw,3,Potion brewing
+192,Slytherin,2,Magical creatures
+193,Ravenclaw,6,Magical creatures
+194,Slytherin,2,Quidditch
+195,Hufflepuff,6,Wizard chess
+196,Ravenclaw,1,Wizard chess
+197,Slytherin,3,Wizard chess
+198,Gryffindor,7,Quidditch
+199,Ravenclaw,5,Wizard chess
+200,Gryffindor,7,Herbology
